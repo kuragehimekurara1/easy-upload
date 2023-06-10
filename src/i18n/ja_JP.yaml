@@ -1,40 +1,40 @@
-豆瓣链接获取失败: Failed to get Douban link
-豆瓣ID获取失败: Failed to get Douban ID
-获取豆瓣信息失败: Failed to get Douban data
-缺少IMDB信息: Missing IMDB information
-获取失败: Request failed
-获取成功: Data request successful
-请求失败: Request failed
-上传失败，请重试: Upload failed, please try again
-ptpimg上传失败: PtpImg upload failed
-请到配置面板中填入ptpimg的api_key: Please enter the API_KEY of ptpimg in the setting panel
-封面上传失败: Failed to upload poster
-数据加载中...: Loading data...
-获取图片列表失败: Failed to get list of images
-转换中...: Converting...
-转换成功！: Converted!
-获取中...: Requesting...
-缺少豆瓣链接: Missing Douban link
-本种子可能禁止转载，确定要继续转载么？: Transfer of this torrent may be prohibited, are you sure to continue?
-请等待页面加载完成: Please wait for the page to load
-手动输入豆瓣链接: Enter the Douban link
-获取豆瓣简介: Get data of Douban
-获取豆瓣读书简介: Get data of Douban Book
-转缩略图: Convert to thumbnails
-快速检索: Quick search
-一键群转: Batch transfer
-快捷操作: Quick operation
-一键转种: Transfer to
-转种站点启用: Select sites for the 'Transfer to' section
-批量转种启用: Select sites for the 'Batch transfer' button
-一键批量转发到以下选中的站点: One-click batch transfer to the selected sites below
-站点搜索启用: Select sites for the 'Quick search' section
-图床配置: Image Host Settings
-如何获取？: How to get it?
-额外功能关闭: Turn off extra features
-关闭转缩略图功能: Remove the 'Convert to thumbnails' button
-关闭站点图标显示: Remove the icons
-关闭转存ptpimg功能: Remove the 'Upload screenshots to ptpimg' button
+豆瓣链接获取失败: Doubanリンクの取得に失敗しました
+豆瓣ID获取失败: Douban IDの取得に失敗しました
+获取豆瓣信息失败: Doubanデータの取得に失敗しました
+缺少IMDB信息: IMDB情報がありません
+获取失败: 要求が失敗しました
+获取成功: データリクエストが成功しました
+请求失败: 要求が失敗しました
+上传失败，请重试: アップロードに失敗しました、もう一度お試しください
+ptpimg上传失败: PtpImgのアップロードに失敗しました
+请到配置面板中填入ptpimg的api_key: 設定パネルにptpimgのAPI_KEYを入力してください
+封面上传失败: posterのアップロードに失敗しました
+数据加载中...: データをロード中...
+获取图片列表失败: 画像リストの取得に失敗しました
+转换中...: 変換中...
+转换成功！: 変換されました！
+获取中...: リクエスト中...
+缺少豆瓣链接: Doubanリンクがありません
+本种子可能禁止转载，确定要继续转载么？: このtorrentの転送は禁止されている可能性があります。続行してもよろしいですか？
+请等待页面加载完成: ページが読み込まれるまでお待ちください
+手动输入豆瓣链接: Douban リンクを入力してください
+获取豆瓣简介: Doubanのデータを取得する
+获取豆瓣读书简介: Douban Bookのデータを取得する
+转缩略图: サムネイルに変換
+快速检索: クイック検索
+一键群转: 一括転送
+快捷操作: 素早い操作
+一键转种: 転送先
+转种站点启用: 「転送先」セクションのサイトを選択してください
+批量转种启用: 「一括転送」ボタンのサイトを選択してください
+一键批量转发到以下选中的站点: 以下の選択したサイトにワンクリックで一括転送します
+站点搜索启用: 「クイック検索」セクションのサイトを選択してください
+图床配置: 画像ホストの設定
+如何获取？: 入手方法は？
+额外功能关闭: 余分な機能をオフにする
+关闭转缩略图功能: 「サムネイルに変換」ボタンを削除します。
+关闭站点图标显示: アイコンを削除する
+关闭转存ptpimg功能: 「スクリーンショットを ptpimg にアップロード」ボタンを削除
 保存: Save
 取消: Cancel
 错误: Error
